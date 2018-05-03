@@ -1,0 +1,10 @@
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.exe.config
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.exe
+C:\Users\20135020\source\repos\listas\listas\bin\Debug\listas.pdb
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csprojResolveAssemblyReference.cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.Form1.resources
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.Properties.Resources.resources
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csproj.GenerateResource.Cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.csproj.CoreCompileInputs.cache
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.exe
+C:\Users\20135020\source\repos\listas\listas\obj\Debug\listas.pdb
